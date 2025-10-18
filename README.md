@@ -68,6 +68,10 @@ Then you will see Edge Accelerated Navigation in Town04 with traffics:
 
 
 
+https://github.com/user-attachments/assets/0fb08cbe-ae02-4837-97a1-22db647f6c43
+
+
+
 ## Node API
 
 
