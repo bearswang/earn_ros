@@ -62,7 +62,7 @@ bash ./earn_demo.sh
 ```
 
 > [!NOTE]
-> CARLA_ROOT is the roof folder that installs CARLA
+> CARLA_ROOT is the root folder that installs CARLA
 
 Then you will see Edge Accelerated Navigation in Town04 with traffics:
 
