@@ -8,7 +8,7 @@ from nav_msgs.msg import Path
 from visualization_msgs.msg import Marker, MarkerArray
 import tf
 from collections import namedtuple
-from pdd_planner.mpc import MPC
+from mpc import MPC
 from math import atan2
 from gctl.curve_generator import curve_generator
 from sklearn.cluster import DBSCAN
@@ -774,3 +774,4 @@ class pdd_core:
         centroid_y = np.mean(vertexes[1, :])
         
         return np.array([[centroid_x], [centroid_y]])
+
